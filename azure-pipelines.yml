@@ -48,6 +48,6 @@ steps:
     distributeType: 'sig'
     galleryImageId: '/subscriptions/cddd1e2c-4509-4326-936f-32784b86d78a/resourceGroups/rg-mcaps-eas-n-vmimg-01/providers/Microsoft.Compute/galleries/vmimgmcapseasgal01/images/MyUbuntu/versions/0.0.$(Build.BuildId)'
     replicationRegions: 'eastasia'
-    ibSubscription: 'cddd1e2c-4509-4326-936f-32784b86d78a'
+    ibSubscription: 'MCAPS-Hybrid-REQ-38268-2022-LeoWan'
     ibAzureResourceGroup: 'rg-mcaps-eas-n-vmimg-01'
     ibLocation: 'eastasia'
